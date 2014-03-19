@@ -1,3 +1,7 @@
+Multiple Slick and Accesible Slideshow 
+is the version multi-slideshows 
+based on Slick and Accesible Slideshow by Jacob Gube.
+
 final_new.html is the new file.
 required files:
 scripts/multi_slick_accessible_slideshow.js
